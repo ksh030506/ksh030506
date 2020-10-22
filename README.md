@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)
-[! [ReadMe 카드] (https://github-readme-stats.vercel.app/api/pin/ ? username = anuraghazra & repo = github-readme-stats )] (https://github.com/anuraghazra/github- readme-stats)
+[! [ReadMe 카드] (https://github-readme-stats.vercel.app/api/pin/ ? username = ksh030506 & repo = TIL )] (https://github.com/ksh030506/github- readme-stats)
