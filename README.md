@@ -11,7 +11,19 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=llmm030506@gmail.com)](llmm030506@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion%20blog-blackstyle=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-
+//깃헙 레포 사용 언어 수
+https://img.shields.io/github/languages/count/beygee/survive 
+//깃헙 레포 최다빈도 언어
+https://img.shields.io/github/languages/top/beygee/survive
+//깃헙 레포 코드 용량
+https://img.shields.io/github/languages/code-size/beygee/survive
+//깃헙 레포 용량
+https://img.shields.io/github/repo-size/beygee/survive
+//깃헙 레포 오픈 이슈 개수
+https://img.shields.io/github/issues/beygee/survive
+//깃헙 레포 닫힌 이슈 개수
+https://img.shields.io/github/issues-closed/beygee/survive
+//깃헙 레포 주간 커밋 수
+https://img.shields.io/github/commit-activity/w/beygee/survive
+//깃헙 레포 라스트 커밋 날짜
+https://img.shields.io/github/last-commit/beygee/survive
