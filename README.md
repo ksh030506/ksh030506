@@ -11,4 +11,7 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=llmm030506@gmail.com)](llmm030506@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)
+[![Notion Badge](https://img.shields.io/badge/Notion%20blog-blackstyle=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+
