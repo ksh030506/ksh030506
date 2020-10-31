@@ -10,5 +10,5 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 👬 Communication (talk, play, exercise, code review, etc. Everything else)<br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh030506&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh030506)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=llmm030506@gmail.com)](llmm030506@gmail.com)
