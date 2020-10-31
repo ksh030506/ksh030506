@@ -9,7 +9,7 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 💼 DevOps technologies such as AWS (ec2, Route 53, code deploy, RDS, etc.Everything else)<br/>
 👬 Communication (talk, play, exercise, code review, etc. Everything else)<br/><br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh030506)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh030506)<br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=llmm030506@gmail.com)](llmm030506@gmail.com)
 [![Notion Badge](http://img.shields.io/badge/Notion%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)
