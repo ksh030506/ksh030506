@@ -29,3 +29,6 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh030506&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
