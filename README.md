@@ -28,6 +28,3 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
-
-<br/>
-<br/>
