@@ -27,8 +27,5 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a> 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)<br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksh030506&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh030506&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
