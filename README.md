@@ -2,7 +2,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh030506&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=llmm030506@gmail.com)](llmm030506@gmail.com) 
-[![Notion Badge](http://img.shields.io/badge/Notion%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73) 
+[![Notion Badge](http://img.shields.io/badge/Notion%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73) <image src="https://img.shields.io/github/followers/ksh030506?style=social">
 
 
 ## SW Engineer
