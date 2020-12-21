@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ## SW Engineer
 Hello, I am Sanghyun Kim, a server developer who communicates and collaborates passionately.<br/>
