@@ -10,9 +10,9 @@ Hello, I am Sanghyun Kim, a server developer who communicates and collaborates p
 🌱 I’m currently learning ... Java/Spring-Boot, Back-end/Server.<br/>
 
 ## Interest
-⛅ Back-end skills such as Spring/Spring-Boot, Node.js, Express/Koa etc.<br/>
-💼 DevOps technologies such as AWS (ec2, Route 53, code deploy, RDS, etc.Everything else)<br/>
-👬 Communication (talk, play, exercise, code review, etc. Everything else)<br/><br/>
+⛅  Back-end skills such as Spring/Spring-Boot, Node.js, Express/Koa etc.<br/>
+💼  DevOps technologies such as AWS (ec2, Route 53, code deploy, RDS, etc.Everything else)<br/>
+👬  Communication (talk, play, exercise, code review, etc. Everything else)<br/><br/>
 
 ## My Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
