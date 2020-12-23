@@ -5,7 +5,7 @@
 [![Notion Badge](http://img.shields.io/badge/Notion%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73)](https://www.notion.so/Kim-Sanghyeon-14a971a3d2a9477c9719d685e2463e73) 
 
 
-## SW Engineer
+## SoftWare Engineer
 Hello, I am Sanghyun Kim, a server developer who communicates and collaborates passionately.<br/>
 🌱 I’m currently learning ... Java/Spring-Boot, Back-end/Server.<br/>
 
